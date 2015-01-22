@@ -139,3 +139,4 @@ if (jQuery.browser.msie)
 		}
 	});
 
+
